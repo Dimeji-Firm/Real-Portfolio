@@ -6,8 +6,8 @@ setTimeout(() => {
   // LOADER
   
   const imageUrls = [
-    'https://res.cloudinary.com/nachodev/image/upload/q_auto,f_auto/laptop_white_ilz0q7.png',
-    'https://res.cloudinary.com/nachodev/image/upload/q_auto,f_auto/laptop_black_cef644.jpg',
+    'https://res.cloudinary.com/dcmhovnqg/image/upload/v1738123084/timfllyynewXX_hgi49q.png',
+    'https://res.cloudinary.com/dcmhovnqg/image/upload/v1738123082/timfllyynewxx_d5mokw.jpg',
   ];
   
   let imagesLoaded = 0;

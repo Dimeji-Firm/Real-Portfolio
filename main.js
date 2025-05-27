@@ -105,8 +105,8 @@ setTimeout(() => {
   var typed = new Typed('.typed1', {
     strings: [
       'an Ecommerce Specialist',
-      'a Web developer',
-      'an SEO Expert',
+      'a Website Designer',
+      'a TikTok Marketing Expert',
     ],
     typeSpeed: 100,
     backSpeed: 50,
@@ -114,9 +114,9 @@ setTimeout(() => {
   });
   var typed = new Typed('.typed2', {
     strings: [
-      'an Ecommerce developer',
-      'a Web designer',
-      'an SEO Expert',
+      'an Ecommerce Specialist',
+      'a Website Designer',
+      'a TikTok Marketing Expert',
     ],
     typeSpeed: 150,
     backSpeed: 80,
